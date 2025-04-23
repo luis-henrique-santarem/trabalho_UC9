@@ -1,6 +1,0 @@
-com\mycompany\taskmanager\dao\TaskDAO.class
-com\mycompany\taskmanager\database\CreateTables.class
-com\mycompany\taskmanager\model\Task.class
-com\mycompany\taskmanager\TaskManager.class
-com\mycompany\taskmanager\database\ConnectionSQL.class
-com\mycompany\taskmanager\controller\TaskController.class
